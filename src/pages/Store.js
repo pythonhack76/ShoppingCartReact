@@ -16,15 +16,8 @@ function Store() {
 <Col align="center" key={idx}>
 <ProductCard product={product} />
 </Col>
-            ))}
-
-            
-            
-            
-      
-      
-      
-        </Row>
+            ))}        
+             </Row>
     
         </>
 
